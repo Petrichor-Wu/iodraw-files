@@ -19,11 +19,14 @@
         <mxCell id="NizWHApBtQEup1nHBai3-5" value="提取白水县边界" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="262" y="181" width="173" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="NizWHApBtQEup1nHBai3-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NizWHApBtQEup1nHBai3-6" target="NizWHApBtQEup1nHBai3-9">
+        <mxCell id="NizWHApBtQEup1nHBai3-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NizWHApBtQEup1nHBai3-6" target="NizWHApBtQEup1nHBai3-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NizWHApBtQEup1nHBai3-6" value="1幅完整DEM数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="28" y="268" width="178" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="NizWHApBtQEup1nHBai3-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NizWHApBtQEup1nHBai3-7" target="NizWHApBtQEup1nHBai3-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NizWHApBtQEup1nHBai3-7" value="白水县边界矢量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="263" y="268" width="172" height="48" as="geometry" />
