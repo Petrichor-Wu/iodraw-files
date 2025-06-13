@@ -20,16 +20,16 @@
           <mxGeometry x="262" y="181" width="173" height="48" as="geometry" />
         </mxCell>
         <mxCell id="NizWHApBtQEup1nHBai3-6" value="1幅完整DEM数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="28" y="273" width="178" height="48" as="geometry" />
+          <mxGeometry x="28" y="268" width="178" height="48" as="geometry" />
         </mxCell>
         <mxCell id="NizWHApBtQEup1nHBai3-7" value="白水县边界矢量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="263" y="273" width="172" height="48" as="geometry" />
+          <mxGeometry x="263" y="268" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="NizWHApBtQEup1nHBai3-9" value="白水县DEM数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="147.5" y="413" width="170" height="48" as="geometry" />
+          <mxGeometry x="147.5" y="412" width="170" height="48" as="geometry" />
         </mxCell>
         <mxCell id="NizWHApBtQEup1nHBai3-11" value="最终成果数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="154.5" y="488" width="156" height="48" as="geometry" />
+          <mxGeometry x="154.5" y="487" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="NizWHApBtQEup1nHBai3-12" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="185.5" y="586" width="94" height="48" as="geometry" />
@@ -87,12 +87,13 @@
         <mxCell id="NizWHApBtQEup1nHBai3-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NizWHApBtQEup1nHBai3-9" target="NizWHApBtQEup1nHBai3-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="232.5" y="470" as="sourcePoint" />
+            <mxPoint x="232.5" y="469" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NizWHApBtQEup1nHBai3-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="NizWHApBtQEup1nHBai3-11" target="NizWHApBtQEup1nHBai3-12">
+        <mxCell id="NizWHApBtQEup1nHBai3-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="NizWHApBtQEup1nHBai3-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="232.5" y="585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
