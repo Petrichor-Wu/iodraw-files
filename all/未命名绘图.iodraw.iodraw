@@ -1,84 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="ndic6jbacEqaeI64_90B">
-    <mxGraphModel dx="1042" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2084" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PCUhHZhj6iIlD--JRyEH-2" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="93" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="PCUhHZhj6iIlD--JRyEH-3" value="创建地理数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="163" y="20" width="173" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="PCUhHZhj6iIlD--JRyEH-4" value="新建镶嵌数据集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="386" y="20" width="172" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="PCUhHZhj6iIlD--JRyEH-5" value="添加第一批栅格" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="608" y="20" width="173" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="PCUhHZhj6iIlD--JRyEH-6" value="执行色彩平衡" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="830" y="20" width="157" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="PCUhHZhj6iIlD--JRyEH-7" value="同步数据集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1037" y="20" width="140" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="PCUhHZhj6iIlD--JRyEH-8" value="追加第二批栅格" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1227" y="20" width="173" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="PCUhHZhj6iIlD--JRyEH-9" value="再次色彩平衡" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="20" width="156" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="PCUhHZhj6iIlD--JRyEH-10" value="导出最终影像" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1656" y="20" width="157" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="PCUhHZhj6iIlD--JRyEH-11" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1863" y="20" width="94" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="PCUhHZhj6iIlD--JRyEH-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="PCUhHZhj6iIlD--JRyEH-2" target="PCUhHZhj6iIlD--JRyEH-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PCUhHZhj6iIlD--JRyEH-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="PCUhHZhj6iIlD--JRyEH-3" target="PCUhHZhj6iIlD--JRyEH-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PCUhHZhj6iIlD--JRyEH-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="PCUhHZhj6iIlD--JRyEH-4" target="PCUhHZhj6iIlD--JRyEH-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PCUhHZhj6iIlD--JRyEH-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="PCUhHZhj6iIlD--JRyEH-5" target="PCUhHZhj6iIlD--JRyEH-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PCUhHZhj6iIlD--JRyEH-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="PCUhHZhj6iIlD--JRyEH-6" target="PCUhHZhj6iIlD--JRyEH-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PCUhHZhj6iIlD--JRyEH-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="PCUhHZhj6iIlD--JRyEH-7" target="PCUhHZhj6iIlD--JRyEH-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PCUhHZhj6iIlD--JRyEH-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="PCUhHZhj6iIlD--JRyEH-8" target="PCUhHZhj6iIlD--JRyEH-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PCUhHZhj6iIlD--JRyEH-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="PCUhHZhj6iIlD--JRyEH-9" target="PCUhHZhj6iIlD--JRyEH-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PCUhHZhj6iIlD--JRyEH-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="PCUhHZhj6iIlD--JRyEH-10" target="PCUhHZhj6iIlD--JRyEH-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
