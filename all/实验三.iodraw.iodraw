@@ -32,7 +32,7 @@
           <mxGeometry x="154.5" y="440" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="NizWHApBtQEup1nHBai3-12" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="185.5" y="539" width="94" height="48" as="geometry" />
+          <mxGeometry x="185.5" y="518" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="NizWHApBtQEup1nHBai3-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.91;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="NizWHApBtQEup1nHBai3-1" target="NizWHApBtQEup1nHBai3-2">
           <mxGeometry relative="1" as="geometry">
@@ -90,7 +90,7 @@
             <mxPoint x="232.5" y="422" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NizWHApBtQEup1nHBai3-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="NizWHApBtQEup1nHBai3-11">
+        <mxCell id="NizWHApBtQEup1nHBai3-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NizWHApBtQEup1nHBai3-11" target="NizWHApBtQEup1nHBai3-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="232.5" y="538" as="targetPoint" />
