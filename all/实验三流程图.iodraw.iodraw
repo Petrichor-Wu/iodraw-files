@@ -13,13 +13,13 @@
         <mxCell id="28-ny7RBFcHAK54vl3zb-2" value="数据准备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="175" y="100" width="125" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="28-ny7RBFcHAK54vl3zb-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="28-ny7RBFcHAK54vl3zb-3" target="28-ny7RBFcHAK54vl3zb-5">
+        <mxCell id="28-ny7RBFcHAK54vl3zb-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="28-ny7RBFcHAK54vl3zb-3" target="28-ny7RBFcHAK54vl3zb-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="28-ny7RBFcHAK54vl3zb-3" value="现有超市缓冲区分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="189" width="204" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="28-ny7RBFcHAK54vl3zb-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="28-ny7RBFcHAK54vl3zb-4" target="28-ny7RBFcHAK54vl3zb-5">
+        <mxCell id="28-ny7RBFcHAK54vl3zb-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="28-ny7RBFcHAK54vl3zb-4" target="28-ny7RBFcHAK54vl3zb-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="28-ny7RBFcHAK54vl3zb-4" value="施工区域准备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -65,7 +65,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="28-ny7RBFcHAK54vl3zb-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="28-ny7RBFcHAK54vl3zb-2">
+        <mxCell id="28-ny7RBFcHAK54vl3zb-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="28-ny7RBFcHAK54vl3zb-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="190" as="targetPoint" />
           </mxGeometry>
