@@ -23,16 +23,16 @@
           <mxGeometry x="28" y="331" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DkYwkanHpYoXRjLtHyPw-6" value="格网绘制" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="240" y="90" width="125" height="48" as="geometry" />
+          <mxGeometry x="240" y="65" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DkYwkanHpYoXRjLtHyPw-7" value="图幅整饰" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="240" y="188" width="124" height="48" as="geometry" />
+          <mxGeometry x="1130" y="570" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DkYwkanHpYoXRjLtHyPw-8" value="地图输出" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="240" y="287" width="124" height="48" as="geometry" />
+          <mxGeometry x="240" y="262" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DkYwkanHpYoXRjLtHyPw-9" value="结束" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="255" y="385" width="94" height="48" as="geometry" />
+          <mxGeometry x="255" y="360" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DkYwkanHpYoXRjLtHyPw-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontSize=15;" edge="1" parent="1" source="DkYwkanHpYoXRjLtHyPw-1" target="DkYwkanHpYoXRjLtHyPw-2">
           <mxGeometry relative="1" as="geometry">
