@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2V0FKj1d6xQZxpwHSms3-4" value="重分类成本数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="40" y="405" width="172" height="48" as="geometry" />
+          <mxGeometry x="40" y="347" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="2V0FKj1d6xQZxpwHSms3-5" value="加权合并成本栅格" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="282" y="110" width="190" height="48" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="299" y="268" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="2V0FKj1d6xQZxpwHSms3-8" value="结束" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="330" y="405" width="94" height="48" as="geometry" />
+          <mxGeometry x="330" y="347" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="2V0FKj1d6xQZxpwHSms3-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontSize=16;" edge="1" parent="1" source="2V0FKj1d6xQZxpwHSms3-1" target="2V0FKj1d6xQZxpwHSms3-2">
           <mxGeometry relative="1" as="geometry">
