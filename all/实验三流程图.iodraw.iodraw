@@ -26,10 +26,10 @@
           <mxGeometry x="240" y="65" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DkYwkanHpYoXRjLtHyPw-7" value="图幅整饰" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="570" width="124" height="48" as="geometry" />
+          <mxGeometry x="240" y="145" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DkYwkanHpYoXRjLtHyPw-8" value="地图输出" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="240" y="262" width="124" height="48" as="geometry" />
+          <mxGeometry x="1140" y="780" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DkYwkanHpYoXRjLtHyPw-9" value="结束" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="255" y="360" width="94" height="48" as="geometry" />
