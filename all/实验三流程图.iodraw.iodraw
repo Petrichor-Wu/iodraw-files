@@ -8,7 +8,7 @@
           <mxGeometry x="191" y="20" width="93" height="48" as="geometry" />
         </mxCell>
         <mxCell id="28-ny7RBFcHAK54vl3zb-2" value="数据准备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="175" y="118" width="125" height="48" as="geometry" />
+          <mxGeometry x="175" y="101" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="28-ny7RBFcHAK54vl3zb-3" value="现有超市缓冲区分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="217" width="204" height="48" as="geometry" />
