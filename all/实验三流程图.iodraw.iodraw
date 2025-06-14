@@ -29,16 +29,16 @@
           <mxGeometry x="151" y="278" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="28-ny7RBFcHAK54vl3zb-6" value="备选商铺筛选" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="159" y="413" width="158" height="48" as="geometry" />
+          <mxGeometry x="159" y="359" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="28-ny7RBFcHAK54vl3zb-7" value="位置分配分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="159" y="512" width="156" height="48" as="geometry" />
+          <mxGeometry x="159" y="440" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="28-ny7RBFcHAK54vl3zb-8" value="最佳选址确定" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="159" y="610" width="156" height="48" as="geometry" />
+          <mxGeometry x="159" y="537" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="28-ny7RBFcHAK54vl3zb-9" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="191" y="709" width="94" height="48" as="geometry" />
+          <mxGeometry x="191" y="636" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="28-ny7RBFcHAK54vl3zb-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="28-ny7RBFcHAK54vl3zb-1" target="28-ny7RBFcHAK54vl3zb-2">
           <mxGeometry relative="1" as="geometry">
