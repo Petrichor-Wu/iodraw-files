@@ -8,10 +8,10 @@
           <mxGeometry x="68" y="20" width="93" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YRAE0olbzuLw9M01jzXD-2" value="数据准备" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="52" y="118" width="126" height="48" as="geometry" />
+          <mxGeometry x="52" y="100" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YRAE0olbzuLw9M01jzXD-3" value="创建TIN表面" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="40" y="217" width="148" height="48" as="geometry" />
+          <mxGeometry x="40" y="181" width="148" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YRAE0olbzuLw9M01jzXD-4" value="TIN转栅格DEM" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="33" y="315" width="163" height="48" as="geometry" />
@@ -20,10 +20,10 @@
           <mxGeometry x="224" y="20" width="189" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YRAE0olbzuLw9M01jzXD-6" value="叠加显示" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="256" y="118" width="125" height="48" as="geometry" />
+          <mxGeometry x="256" y="100" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YRAE0olbzuLw9M01jzXD-7" value="景观图输出" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="248" y="216" width="140" height="48" as="geometry" />
+          <mxGeometry x="248" y="180" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YRAE0olbzuLw9M01jzXD-8" value="结束" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="272" y="315" width="94" height="48" as="geometry" />
